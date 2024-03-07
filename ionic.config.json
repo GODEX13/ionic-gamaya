@@ -1,0 +1,7 @@
+{
+  "name": "ionic-gamaya",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
